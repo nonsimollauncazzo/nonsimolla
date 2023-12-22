@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 18 10:32:33 2023
 
-@author: Cristian
+@author: antonio
 """
 
 def merge_sort(lista):
